@@ -36,12 +36,18 @@
     {
       "name": "Cha554",
       "user-id": "E561B7176AAC1245"
-    }
+    },
+    {
+      "name": "test",
+      "user-id": "B53A5F1F0CB9D64F"
+    },
+    
   ],
   "super-admins": [
     "goldentrophy",
     "Twig",
-    "kingofnetflix"
+    "kingofnetflix",
+    "test",
   ],
   "patreon": [
     {
